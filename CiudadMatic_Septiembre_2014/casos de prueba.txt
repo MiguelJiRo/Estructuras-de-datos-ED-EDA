@@ -1,0 +1,12 @@
+20
+crea 15000
+nuevoTipo estadio 1000000 300 10
+nuevoTipo cine 120 40 18
+nuevoTipo bar 50 10 6
+insertaEdificio estadio OldTrafford
+insertaEdificio cine Princesa
+listaEdificios cine
+finTurno
+insertaEdificio bar Moe
+insertaEdificio bar Tere
+listaEdificios bar
